@@ -10,12 +10,12 @@ Features 3d printed thread... to attach to track straps or whatever else *(idk i
 Features the whatever camera mount screw thing to screw onto the vives.
 Features contact pins that are wacky af and interact with pin 2 (gnd) and pin 3 (vcc i assume) which will charge the vive pucks.
 ## Parts list
- - To charge...  (Charging board)[https://www.aliexpress.us/item/3256804333619464.html]
- - Toggle on/off (Button switch)[https://www.aliexpress.us/item/3256805320512403.html?]
- - For screwing onto vivies (1/4-20 camera mount screw)[https://www.aliexpress.us/item/3256805162883052.html?]
- - For the contacting to pogo pins possible to find a variant on aliexpress x.x (Contact pins)[https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/1946-0-00-15-00-00-03-0/5176096]
- - M3 12mm scroos, actually select that though (Screw :))[https://www.aliexpress.us/item/2251832624557792.html?]
- - 102540 aliexpress search link... because theres quite a lot (Batree)[https://www.aliexpress.com/w/wholesale-102540.html?]
+ - To charge...  [Charging board](https://www.aliexpress.us/item/3256804333619464.html)
+ - Toggle on/off [Button switch](https://www.aliexpress.us/item/3256805320512403.html?)
+ - For screwing onto vivies [1/4-20 camera mount screw](https://www.aliexpress.us/item/3256805162883052.html?)
+ - For the contacting to pogo pins possible to find a variant on aliexpress x.x [Contact pins](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/1946-0-00-15-00-00-03-0/5176096)
+ - M3 12mm scroos, actually select that though [Screw :)](https://www.aliexpress.us/item/2251832624557792.html?)
+ - 102540 aliexpress search link... because theres quite a lot [Batree](https://www.aliexpress.com/w/wholesale-102540.html?)
 ## Documentation
 Pictures and walkthrough upcoming... waiting on parts
 ## License
